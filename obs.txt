@@ -1,0 +1,7 @@
+====== Open Bible Stories (hi) ======
+
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[:contact|just ask]]!
+
+{{page>kjo:obs:stories}}
+
+{{page>en:obs:active}}
